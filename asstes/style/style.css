@@ -1,0 +1,261 @@
+.container {
+  margin-top: 70px;
+}
+
+.agred_one {
+  background-color: blue;
+  width: 130px;
+  height: 300px;
+  margin-top: 50px;
+}
+
+body {
+  background-color: aqua;
+}
+
+.engirit_two {
+  background-color: white;
+  width: 130px;
+  height: 300px;
+  margin-top: 50px;
+}
+
+.free_one {
+  background-color: red;
+  width: 130px;
+  height: 300px;
+  margin-top: 50px;
+}
+
+.teall_kell {
+  background-color: green;
+  width: 130px;
+  height: 300px;
+  margin-top: 50px;
+  margin-left: 50px;
+}
+
+.engirit_three {
+  background-color: white;
+  width: 130px;
+  height: 300px;
+  margin-top: 50px;
+}
+
+.free_two {
+  background-color: red;
+  width: 130px;
+  height: 300px;
+  margin-top: 50px;
+}
+
+.jtear_ottir {
+  background-color: black;
+  width: 370px;
+  height: 120px;
+  margin-top: 30px;
+  margin-left: 50px;
+}
+
+.dill_yewq {
+  background-color: red;
+  width: 370px;
+  height: 120px;
+  margin-top: 50px;
+  margin-left: 50px;
+  margin-top: 150px;
+  position: absolute;
+}
+
+.drell_tell {
+  background-color: gold;
+  width: 370px;
+  height: 120px;
+  margin-top: 50px;
+  margin-left: 50px;
+  margin-top: 260px;
+  position: absolute;
+}
+
+.jtear_ottir_one {
+  background-color: black;
+  width: 370px;
+  height: 100px;
+  margin-top: 30px;
+  margin-left: 90px;
+}
+
+.dill_yewq_two {
+  background-color: red;
+  width: 370px;
+  height: 100px;
+  margin-top: 50px;
+  margin-left: 50px;
+  margin-top: 130px;
+  position: absolute;
+}
+
+.drell_tell_three {
+  background-color: gold;
+  width: 370px;
+  height: 100px;
+  margin-top: 50px;
+  margin-left: 50px;
+  margin-top: 260px;
+  position: absolute;
+}
+
+.teall_kell_one {
+  background-color: green;
+  width: 130px;
+  height: 300px;
+  margin-top: 50px;
+  margin-left: 150px;
+  position: relative;
+}
+
+.engirit_for {
+  background-color: red;
+  width: 130px;
+  height: 300px;
+  margin-top: 50px;
+  position: relative;
+}
+
+.free_three {
+  background-color: gold;
+  width: 130px;
+  height: 300px;
+  margin-top: 50px;
+}
+
+.twoll_coll {
+  background-color: white;
+  width: 400px;
+  height: 100px;
+  margin-top: 60px;
+  margin-left: 30px;
+}
+
+.frast_gionr {
+  background-color: rgb(90, 199, 90);
+  width: 400px;
+  height: 100px;
+  margin-left: 30px;
+}
+
+.jpte_reppit {
+  background-color: red;
+  width: 400px;
+  height: 100px;
+  margin-left: 30px;
+}
+
+.doppit_kett {
+  background-color: red;
+  width: 400px;
+  height: 100px;
+}
+
+.dwill_deer {
+  margin-top: 50px;
+  width: 390px;
+  height: 300px;
+  background: linear-gradient(135deg, green 0%, green 40%, yellow 40%, yellow 60%, red 60%, red 100%);
+}
+
+.truppil_will {
+  margin-top: 50px;
+  width: 390px;
+  height: 300px;
+  margin-left: 100px;
+  background: linear-gradient(40deg, green 0%, green 50%, yellow 0%);
+}
+
+.img_one {
+  margin-left: 100px;
+  margin-top: 50px;
+}
+
+.illop_wettir {
+  background-color: blue;
+  width: 400px;
+  height: 300px;
+  margin-top: 50px;
+  margin-left: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.delwq_book {
+  width: 120px;
+  height: 40px;
+  background-color: gold;
+}
+
+.delwq_book_two {
+  width: 40px;
+  height: 300px;
+  background-color: gold;
+  margin-top: 12px;
+}
+
+.delwq_book_three {
+  width: 240px;
+  height: 40px;
+  background-color: gold;
+}
+
+.detrdfj_plkh {
+  margin-left: 50px;
+  width: 370px;
+  height: 100px;
+  margin-top: 50px;
+  background-color: blue;
+}
+
+.detrdfj_one {
+  margin-left: -370px;
+  width: 370px;
+  height: 100px;
+  margin-top: 150px;
+  background-color: black;
+}
+
+.detrdfj_two {
+  margin-left: -370px;
+  width: 370px;
+  height: 100px;
+  margin-top: 250px;
+  background-color: white;
+}
+
+.ferty_opty {
+  width: 400px;
+  height: 300px;
+  margin-top: 100px;
+  margin-left: 700px;
+  background: linear-gradient(180deg, blue 0%, blue 35%, white 35%, white 45%, red 45%, red 55%, white 55%, white 65%, blue 65%, blue 100%);
+}
+
+.img_two {
+  width: 50px;
+  height: 50px;
+  margin-top: 40px;
+  margin-left: 20px;
+}
+
+.img_three {
+  width: 50px;
+  height: 50px;
+  margin-top: 150px;
+  margin-left: 280px;
+}
+
+.img_1 {
+  width: 50px;
+  height: 50px;
+  margin-top: 0px;
+  margin-left: 20px;
+}/*# sourceMappingURL=style.css.map */
